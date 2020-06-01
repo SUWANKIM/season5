@@ -23,7 +23,7 @@
 
 ## Q. 2박 3일 여행 일정을 알려주세요!
 
-<img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe_season4/master/proceeee.png">
+<img src="https://raw.githubusercontent.com/SUWANKIM/season5/master/processs.png">
 
 - 대부분 농장일은 오피스 업무와 달리 정해진 시간에 맞춰 끝내는 게 많이 힘들어요.. 다음 날 차질이 생기기 때문이죠..
 - 노동 당일 현장 상황과 복숭아님들 컨디션에 따라 끝나는 시간이 20분 정도 ± 될 수 있습니다.
